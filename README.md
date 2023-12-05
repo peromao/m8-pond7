@@ -7,3 +7,6 @@ Durante a operação, o Raspberry Pi Pico W solicita dados de temperatura e pres
 
 Quanto à visualização no serial dentro do PC, os dados lidos do sensor são enviados para a porta serial e podem ser monitorados usando um terminal serial no computador, nesse caso o Thonny, ambiente de desenvolvimento usado para programar o Raspberry Pi Pico W.
 
+## Diagrama de Blocos
+![imagem - Value Proposition Canvas](./a.png)
+Conectamos o GDD e o VCC (este conectado no 3V3). No pino SCL, 
