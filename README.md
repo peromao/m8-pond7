@@ -1,4 +1,4 @@
-# Ponderada Semana 7
+# Ponderada Semana 7 - Pedro Romao e Joao Alcaraz
 Nesta ponderada utilizamos o sensor O BMP280 que é um sensor de pressão barométrica e temperatura que pode operar em correntes extremamente baixas, como 2,7 µA a 1Hz, sendo um sensor ideal para aplicações móveis onde a economia de energia é crucial e pode ser interfaceado usando os protocolos SPI e I2C. O BMP280 contém um elemento sensor de pressão piezoelétrico resistivo. Este sensor envia dados para um ASIC (Circuito Integrado Específico para Aplicações) dentro do módulo. O ASIC envia dados sobre temperatura e pressão para dispositivos externos, como microcontroladores, nosso caso, o Raspberry Pi Pico W.
 
 ![imagem - diagrama](./diagrama.png)
